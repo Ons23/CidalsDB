@@ -1,9 +1,5 @@
 libgl1-mesa-glx
 libxrender1
-libxext6
-libsm6
-libfreetype6
-libx11-6
-librdkit1
+patchelf
 gcc
 g++
