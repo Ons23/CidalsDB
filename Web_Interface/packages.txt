@@ -1,5 +1,5 @@
 libgl1-mesa-glx
-libxrender1
-patchelf
+libxrender1 patchelf
+librdkit1
 gcc
 g++
