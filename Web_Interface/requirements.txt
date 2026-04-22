@@ -1,3 +1,7 @@
+pip>=25
+setuptools
+wheel
+streamlit
 -f https://data.dgl.ai/wheels/repo.html
 numpy==1.22.3
 pandas==1.5.3
