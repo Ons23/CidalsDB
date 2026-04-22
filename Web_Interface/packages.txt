@@ -3,10 +3,7 @@
 #patchelf
 #gcc
 #g++
+libgl1-mesa-glx
 libxrender1
-libsm6
-libxext6
-libgl1
-libglib2.0-0
-libfontconfig1
-libfreetype6
+gcc
+g++
