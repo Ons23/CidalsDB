@@ -1,4 +1,4 @@
-pip>=25
+pip>=26
 setuptools
 wheel
 streamlit
