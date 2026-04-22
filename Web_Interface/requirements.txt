@@ -1,3 +1,5 @@
 -f https://data.dgl.ai/wheels/repo.html
 numpy==1.22.3
 pandas==1.5.3
+PubChemPy==1.0.4
+py3Dmol==2.0.3
