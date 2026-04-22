@@ -6,5 +6,9 @@
 libglu1-mesa
 libgl1-mesa-glx
 libxrender1
-gcc
-g++
+libsm6
+libxext6
+libgl1
+libglib2.0-0
+libfontconfig1
+libfreetype6
